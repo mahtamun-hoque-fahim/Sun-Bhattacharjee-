@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    outline: 0;
+}
+body{
+    width:100%;
+    background-color:#eeeeee;
+}
+body > header{
+    text-align: center;
+    background-color: #006de2;
+    color:#eeeeee;
+}
