@@ -6,9 +6,16 @@
 body{
     width:100%;
     background-color:#eeeeee;
+    color:#212121;
 }
 body > header{
     text-align: center;
-    background-color: #006de2;
-    color:#eeeeee;
+    color: #006de2;
+    background-color:#eeeeee;
+    height:20vh;
+    display: grid;
+    place-content: center;
+}
+body > main{
+    background-color: #007bff;
 }
